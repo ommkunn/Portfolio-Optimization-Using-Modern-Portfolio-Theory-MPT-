@@ -134,6 +134,8 @@ These constraints promote diversification and prevent excessive concentration in
 
 The optimized asset weights are visualized using a bar chart. This provides an intuitive representation of portfolio allocation and helps interpret the results of the optimization process.
 
+![chart Review](https://github.com/ommkunn/Portfolio-Optimization-Using-Modern-Portfolio-Theory-MPT-/blob/main/Optimal%20Portfolio%20Weights%20Bar%20chart.png)
+
 ---
 
 ## Risk-Free Rate
